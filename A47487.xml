@@ -1,0 +1,545 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vivat Rex a sermon preached before the Right Worshipful the Mayor, aldermen, council and citizens of Bristol : upon the discovery of the late treasonable phanatick plot : at St. James's Church, July 25, 1683 being Sunday in the Fair-week / by R. Kingston ...</title>
+            <author>Kingston, Richard, b. 1635?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47487</idno>
+            <idno type="STC">Wing K617</idno>
+            <idno type="STC">ESTC R17184</idno>
+            <idno type="EEBO-CITATION">12863306</idno>
+            <idno type="OCLC">ocm 12863306</idno>
+            <idno type="VID">94709</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94709)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 718:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vivat Rex a sermon preached before the Right Worshipful the Mayor, aldermen, council and citizens of Bristol : upon the discovery of the late treasonable phanatick plot : at St. James's Church, July 25, 1683 being Sunday in the Fair-week / by R. Kingston ...</title>
+                  <author>Kingston, Richard, b. 1635?</author>
+               </titleStmt>
+               <extent>[4], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hindmarsh ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 1st, X, 24 --  Sermons.</term>
+               <term>Popish Plot, 1678 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94709:1" rendition="simple:additions"/>
+            <p>
+               <hi>VIVAT REX.</hi>
+            </p>
+            <p>A SERMON Preached before the Right Worſhipful THE MAYOR, ALDERMEN, Council and Citizens of <hi>BRISTOL:</hi> Upon the Diſcovery of the Late Treaſonable <hi>Phanatick Plot.</hi>
+            </p>
+            <p>At St. <hi>James</hi>'s Church, <hi>July</hi> 25. 1683. being <hi>Sunday</hi> in the <hi>Fair-Week.</hi>
+            </p>
+            <p>By <hi>R. KINGSTON,</hi> M.A. One of his Majeſties Chaplains in Ordinary.</p>
+            <q>
+               <bibl>
+                  <hi>1</hi> Sam. <hi>xv. 23.</hi>
+               </bibl> Rebellion is as the Sin of Witchcraft, and Stubbornneſs is as Iniquity and Idolatry.</q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Joſeph Hindmarſh,</hi> Bookſeller to his Royal Highneſs, at the Black Bull in <hi>Corn-Hill,</hi> againſt the <hi>Royal-Exchange.</hi> 1683.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:94709:2"/>
+            <pb facs="tcp:94709:2"/>
+            <head>To the Right Worſhipful <hi>THOMAS ESTON,</hi> 
+               <abbr>Eſq</abbr> Mayor: And to the Right and Worſhipful Sir <hi>Robert Ganne,</hi> Knight and Baronet; Sir <hi>Robert Yeomans,</hi> Knight and Baronet; Sir <hi>Richard Crump,</hi> Knight; Sir <hi>John Knight,</hi> jun. Knight; <hi>John Lawford,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Hicks,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Ralph Olliffe,</hi> 
+               <abbr>Eſq</abbr> Aldermen. <hi>To</hi> Mr. <hi>George Hart,</hi> and Mr. <hi>John Combes,</hi> Sheriffs: And to all the reſt of the Loyal Aldermen, Common-Council and Citizens of <hi>BRISTOL.</hi>
+            </head>
+            <opener>
+               <salute>Right Worſhipful,</salute>
+            </opener>
+            <p>THO' I am too conſcious of my own weakneſs and inability to perform any thing worthy of your Acceptance: who are bleſs'd with many Lear<g ref="char:EOLhyphen"/>ned and Loyal Clergy-men, that entertain you with more polite Diſcourſes; yet I dare not ſay but that I did moſt chearfully comply with the Commands
+<pb facs="tcp:94709:3"/>
+of many Conſiderable Perſons, for publiſhing this Diſcourſe; not only becauſe it will be a Teſtimony of your Reſpects to ſo mean an Orator: but becauſe it will be an Evidence of this Cities Duty and Affection to the King, of which no City in <hi>England</hi> hath given more chearful and ample demonſtrati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>It is but a while ſince (as your Worſhips all ſorrowfully remember) that Loyal and Conſcientious Subjects, had like to have been overborn by the inundation of Popular Clamours, and the ranco<g ref="char:EOLhyphen"/>rous breaths of the Factious Mobile: but tho' this Diſeaſe had ſpread its Contagion into too many great Bodies of this Kingdom, and the Tyde of Rebellion grew very high and threatning in this City alſo; yet did your Extraordinary Care and Vigilance Antitode the Infection, Stem the impetu<g ref="char:EOLhyphen"/>ous Torrent, and maugre all the Deſigns of an Antimonarchical Faction, preſerve this City in Loyalty and Obedience. Which that you may always do, to the Honour of God that Commands it, to the Safety of the King that Deſerves it, and your own Eternal Felicity that Endeavour it, is the Prayer of</p>
+            <closer>
+               <salute>Right Worſhipful,</salute>
+               <signed>
+                  <hi>Your moſt humble Servant,</hi> Richard Kingſton.</signed>
+               <dateline>
+                  <date>July, <hi>26. 1683.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:94709:3"/>
+            <head>A SERMON ON <q>
+                  <bibl>
+                     <hi>1 SAM. X. 24.</hi>
+                  </bibl> And all the People ſhouted, and ſaid, God Save the King.</q>
+            </head>
+            <p>WHen the dumb Son of <hi>Craeſus</hi> ſaw an Aſſaſſin about to Murther his Father, tho' he never ſpake before, opened his Mouth with this paſſionate Expreſſion, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>O wretched Man, do not Kill my Father.</hi> Now if the Murther of a <hi>Natural Parent,</hi> was a Crime of that horrid nature, and ſtrange reſentment, as to work a Miracle for its prevention; then certainly the <hi>Murther of a King,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> who is <hi>Pater Patriae (a)</hi> the Father of his Countrey, hath ſo much of <hi>Horror</hi> and <hi>Villany</hi> in it, that if we ſhould hold our Tongues, from a <hi>deteſtation</hi> of the Impious
+<pb n="2" facs="tcp:94709:4"/>
+Fact: and <hi>imploring</hi> the Aid of Heaven for our <hi>Sovereign's Preſervation,</hi> the ſtones of the Street would cry out againſt ſuch an Irreligious Silence.</p>
+            <p>
+               <note place="margin">
+                  <hi>Tim.</hi> iii. 1, 3, 4.</note>St. <hi>Paul</hi> tells us that in <hi>the laſt days perilous times ſhould come;</hi> the men whoſe indeavours ſhould contribute to make them ſuch, were per<g ref="char:EOLhyphen"/>ſons whoſe character was made up of the follow<g ref="char:EOLhyphen"/>ing vices <hi>(viz:) lovers of themſelves, covetous, proud, boaſters, blaſphemers, without natural affecti<g ref="char:EOLhyphen"/>on, truce breakers, falſe accuſers, diſpiſers of thoſe that are good, traytors, heady, high minded, &amp;c.</hi> and if our lot be fallen in an Age, which exactly agrees with the Character of the laſt; we muſt make no diſingenious reflections on the providence of God, but lay it at <hi>their dores:</hi> who by copying out the faults of the <hi>worſt men,</hi> provoke the Al<g ref="char:EOLhyphen"/>mighty, to make their lives ſomewhat more then the tranſcript of their miſeries.</p>
+            <p>And that we do live in ſuch days, and among ſuch perſons, as trully deſerves the aggravating Epithits of <hi>unnatural, heady, high minded, Traytors;</hi> needs no further proofe than the diſcovery of the late <hi>damnable and helliſh Plot,</hi> aginſt the life of our Soveraign: the ſubverſion of our Laws, and the deſtruction of Loyal Subjects.</p>
+            <p>A Plot that would have <hi>extinguiſh'd</hi> the <hi>light</hi> of our Iſrael! Stopt the <hi>breath of our Noſtrils:</hi> murdered the Lords Anoynted, and given a <hi>bloody
+<pb n="3" facs="tcp:94709:4"/>
+Bill of Excluſion to both root and branch of a glorious Monarchy!</hi> a Plot that would have turn'd our <hi>Streets</hi> into <hi>ſhambles,</hi> and fill'd our <hi>houſes</hi> with Bloody Tragedies? a Plot wherein <hi>tranſcendent villany,</hi> hath left no room for pardon; but cries aloud to heaven for Vengance, and calls his Majeſties Loyal Subjects to fall on their Knees in prayer, Saying, <hi>God ſave the King.</hi>
+            </p>
+            <p>And Since I am for many weighty reaſons con<g ref="char:EOLhyphen"/>firm'd in my belief, that no ſort of people queſti<g ref="char:EOLhyphen"/>on the <hi>truth</hi> of this <hi>damnable conſpiracy:</hi> but ſuch whoſe intereſts obliges them to <hi>ſtifle</hi> it, or want demonſtration from the <hi>accurſed deed;</hi> (from which good Lord deliver us) and that the great diſcourſe is, what ſhould cauſe ſuch men, from whom all the world might expect better, to <hi>con<g ref="char:EOLhyphen"/>ſpire</hi> againſt the Life of their <hi>Sovereign:</hi> and to involve the Kingdom in blood and ruine? I hope it will be thought no impertinent digreſſion, to aſſign three things as the cauſe thereof. The firſt of which is, that men of unſtable <hi>heads</hi> but <hi>ſtrong paſſions,</hi> are ſubject to believe, that <hi>a good End doth legitimate and ſanctify the worſt means;</hi> and now being ſecured of the <hi>goodneſs</hi> and <hi>worthineſs</hi> of their End, their thoughts are always in ſuch a <hi>hurry</hi> about it: their minds ſo <hi>intent</hi> upon it, and they are ſo <hi>violently</hi> hot and eager in the proſecuti<g ref="char:EOLhyphen"/>on of it, that they will not allow themſelves leiſure and patience, to conſider the <hi>Lawfulneſs</hi> and
+<pb n="4" facs="tcp:94709:5"/>
+               <hi>Expediency</hi> of the means, they uſe for the com<g ref="char:EOLhyphen"/>paſſing of it, and by this means <hi>court</hi> their own Ruine, and by <hi>doing Evil that Good may come thereby,</hi> aſſert the juſtice of their condemna<g ref="char:EOLhyphen"/>tion.<note place="margin">1 <hi>Sam.</hi> xv. 22.</note> Or elſe it is for that reaſon given by the Prophet <hi>Samuel,</hi> That <hi>Rebellion is as the Sin of Witchcraft,</hi> as well in its facination as in its guilt; for none but men under the power of ſo great a <hi>deluſion,</hi> could be guilty of ſo <hi>barbarous</hi> an impiety: unleſs men had offered <hi>violence</hi> to themſelves, <hi>martyr'd</hi> their own <hi>Con<g ref="char:EOLhyphen"/>ſciences,</hi> chaſed all remains of <hi>honeſty</hi> and <hi>com<g ref="char:EOLhyphen"/>paſſion</hi> out of their own breaſts: they could not have entred into ſuch an <hi>Helliſh Conſpiracy,</hi> and ceaſe wholly to be <hi>Men,</hi> that they might commence <hi>Devils!</hi> hence then I ſay is the cauſe of this infatuation, that men lying under the <hi>Inchantment of Rebellion,</hi> want the genuine exer<g ref="char:EOLhyphen"/>ciſe of their <hi>Reaſon,</hi> and muſt return to their <hi>Allegiance,</hi> (and ſo be converted from Beaſts to Men) before they can be Maſters of their <hi>Wit</hi> and <hi>Senſes.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> And if theſe will not be allowed the cauſe of ſuch <hi>inhuman miſcarriages,</hi> I know not what to collect, unleſs it be that of the Prophet <hi>Iſaiah, The Leaders of this People cauſe them to Erre,</hi>
+               <note n="(b)" place="margin">Qui de<g ref="char:EOLhyphen"/>voratur a ma<g ref="char:EOLhyphen"/>lis Paſtoribus. St. <hi>Jerom.</hi>
+               </note> for where doth this <hi>Gangrene</hi> ſo mortally ſpread? and from whence doth the <hi>Plague</hi> of <hi>Sedi<g ref="char:EOLhyphen"/>tion, Privy-Conſpiracy and Rebellion,</hi> diſperſe its con<g ref="char:EOLhyphen"/>tagion?
+<pb n="5" facs="tcp:94709:5"/>
+but from the <hi>Conventicles?</hi> which are the Schools wherein Male-contents are diſciplin'd for <hi>publick miſchief;</hi> 'tis in thoſe <hi>
+                  <g ref="char:V">Ʋ</g>nlawful Aſſemblies,</hi> that the Sons of <hi>Bichry,</hi> and <hi>Belial, Gebal,</hi> and <hi>Am<g ref="char:EOLhyphen"/>mon,</hi> and <hi>Amalec,</hi> blow the Trumpets of Rebel<g ref="char:EOLhyphen"/>lion, <hi>diſclaim their right in</hi> David, and perſuade others, that <hi>they have no inheritance in the King.</hi> 'Tis there the deluded <hi>Mobile</hi> are Taught, that the juſt and equitable Reſtraints of Authority, are Incroachments upon their Birth-Right; and 'tis there they are Inſtructed to Obey for <hi>Wrath,</hi> and Diſobey for <hi>Conſcience-Sake.</hi>
+            </p>
+            <p>Doctrines big with <hi>Rebellion</hi> and <hi>Confuſion,</hi>
+               <note place="margin">Nullum ma<g ref="char:EOLhyphen"/>lum majus aut infeliciter fe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cius quam inobedientia. <hi>Senec.</hi>
+               </note> whoſe teeming wombs bring forth no other iſſue, than <hi>Blood and Fire, and Pillars of Smoke.</hi>
+            </p>
+            <p>Now have they unridled the myſtery of their <hi>Non-conformity;</hi> they would not come to <hi>Church:</hi> becauſe that <hi>Holy-Ground</hi> could not be <hi>Deſecrated</hi> by ſuch impious Conſultations. They would not <hi>Pray</hi> with us: well knowing we could not <hi>conſent</hi> with them to injure <hi>the Lord's Anointed!</hi> and there<g ref="char:EOLhyphen"/>fore muſt find out ſuch <hi>lurking holes,</hi> and <hi>ſecret places,</hi> as correſpond with ſuch black Deſigns.</p>
+            <p>Honeſt dealing dares look the Sun in the Face; only <hi>Treaſonable Purpoſes,</hi> muſt be mantled in the horrid ſhades of <hi>Obſcurity!</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> xlix. 6.</note> 
+               <hi>O my Soul come not thou into their Secrets, nor unto ſuch Aſſemblies be your honours united:</hi> for <hi>in their Anger they ſlew an excellent King,</hi> and in their
+<pb n="6" facs="tcp:94709:6"/>
+               <hi>Self-will digged down the Walls of the beſt Go<g ref="char:EOLhyphen"/>vernment in the World.</hi> Now that they may not run into the ſame Extremities, nor reduce us to ſuch repeated Confuſions, Let us Pray, <hi>God Save the King.</hi>
+            </p>
+            <p>Which words are the ſame with thoſe in 1 <hi>Kings,</hi> i. 34. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and with that in <hi>Pſal.</hi> xx. 9.<note place="margin">
+                  <hi>Pſal.</hi> xx. 9.</note> rendred by the <hi>Septuagint</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>O Lord ſave the King and hear us,</hi> a form of words uſed by the <hi>Jews</hi> at their Feaſt of Tabernacles, and Coronation of their Kings: and ſounds as much as <hi>Vivat Rex,</hi>
+               <note place="margin">Ita vulg. Lat. &amp; Vatabl. <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m. Annot.</hi> Pſal. xx.</note> or, <hi>Let the King Live;</hi> wherein we do in one word, wiſh the King Proſperity, and Peace, Long Life, and Health; Victory over his Enemies, and Ever<g ref="char:EOLhyphen"/>laſting Happineſs: matters of ſo great conſe<g ref="char:EOLhyphen"/>quence, and ſo aptly expreſſed, that our Church hath appointed it to be one of the <hi>verſieles</hi> in her Publick Devotions: <hi>O Lord ſave the King, and mercifully hear us</hi> (whoſe Peace is linck'd with his Proſperity) <hi>when we call upon Thee.</hi>
+            </p>
+            <p>Prayer is commonly divided into two parts, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <hi>Supplicatory,</hi> for the Bleſſings and Favours we want; and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <hi>Gratu<g ref="char:EOLhyphen"/>latory</hi> for the Mercies and Benefits we have al<g ref="char:EOLhyphen"/>ready receiv'd; and theſe words, <hi>Vivat Rex, Let the King Live,</hi> or, <hi>God ſave the King,</hi> are both; but I ſhall Treat of them only as they
+<pb n="7" facs="tcp:94709:6"/>
+are a <hi>Prayer</hi> and <hi>Supplication.</hi> Wherein we have four particulars:
+<list>
+                  <item>1. The Supplicants, <hi>All the People.</hi>
+                  </item>
+                  <item>2. The Perſon Supplicated for, <hi>The King.</hi>
+                  </item>
+                  <item>3. The Perſon Supplicated to, <hi>God.</hi>
+                  </item>
+                  <item>4. The matter of the Supplication, <hi>That the King</hi> might be <hi>Saved</hi> and <hi>Preſerved. And all the People ſhouted, and ſaid, God ſave the King.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The firſt particular that offers it ſelf to our conſideration, and immitation; is that <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> among Brethren, ſo much commended by the Royal Pſalmiſt,<note place="margin">
+                  <hi>Pſa.</hi> cxxxiii. 1.</note> and ſo much <hi>deſir'd</hi> among all true <hi>Chriſtians.</hi> The <hi>Iſraelites</hi> were not broken into Parties, and conſequently not divided in their Judgments, and Affections; but were at Unity and Agreement among themſelves: <hi>All the People ſhouted, and ſaid, God Save the King.</hi> Their Hearts ſtood bent the ſame way, they had the ſame inclinations and deſires; not the leaſt ap<g ref="char:EOLhyphen"/>pearance of any variance or repugnancy: the Thoughts of their hearts, (as we may gueſs by the Agreement of their Tongues that ſpake from them) were in all the ſame; thoſe many Bo<g ref="char:EOLhyphen"/>dies ſeemed (as they ought to be) but ſo many members of the ſame Body, which were ani<g ref="char:EOLhyphen"/>mated, and influenced, by one Soul. This is that Agreement and Conſent, that the <hi>Policy</hi> of <hi>Heathens</hi> did recommend, and the <hi>Religion</hi> of <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> hath ſince more powerfully enjoyn'd, as
+<pb n="8" facs="tcp:94709:7"/>
+the way to preſerve us in the Fear of God and the King: and then none of us would conſent to any <hi>Treaſon</hi> in our hearts, attempt no <hi>Miſ<g ref="char:EOLhyphen"/>chief</hi> with our hands, nor by our <hi>Schiſms</hi> and <hi>Factions,</hi> provoke God to Scourge us with the Rod of another <hi>Civil-War.</hi>
+            </p>
+            <p>It was, the breach of <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi> and neglect of <hi>Religion,</hi> that expoſed us to all the miſeries and and miſchiefs of <hi>Forty one:</hi> If they had not divi<g ref="char:EOLhyphen"/>ded us in our judgments, they could never have made us a <hi>prey to their Teeth:</hi> and if we had not been careleſs in the exerciſe of Religion and Devotion; God would not have removed from us his watchful Care and Providence. Look in elder days and you will find the goodneſs of God to this Kingdom; and that he never for<g ref="char:EOLhyphen"/>ſook it whilſt we kept inviolate his judgments and ſtatutes. <hi>Proſperity</hi> attended the long Reign of Queen <hi>Elizabeth,</hi> although the enemies of our Church were more <hi>numerous</hi> then, and as <hi>buſy</hi> and <hi>active,</hi> as they are now, The peaceable bringing in our King <hi>James</hi> almoſt to a miracle, was a demonſtration of the kindneſs which God had for a <hi>unanimous People</hi> (for then neither Popery no Phanaticiſm were tolerated). All the time he reigned both <hi>Church</hi> and <hi>State</hi> were in a proſperous condition; but as ſoon as ever extravigent ſpirits, began to Teach that the very genious of Religion was <hi>Separation;</hi> and make it
+<pb n="9" facs="tcp:94709:7"/>
+their buſineſs to ſet men at an infinit <hi>diſtance</hi> from the <hi>Solemn Service</hi> of almighty God; then did God righteouſly break the <hi>bond of Peace:</hi> which that we may prevent for the future, let there be no diviſions amongſt us, but with <hi>one minde and one mouth let us ſay, Vivat Rex.</hi>
+            </p>
+            <p>The next particular is <hi>Rex,</hi> the King; and this <milestone type="tcpmilestone" unit="unspecified" n="2"/> ſhews his dignity, for <hi>melech</hi> in the Hebrew and <hi>Rex</hi> in the Latin tongue come from verbs which ſignifie to Rule and Reign;<note place="margin">
+                  <hi>Rom.</hi> xiii. 1, 2</note> all powers have their original from God, and among all the powers that be ordained of God, the <hi>Regal</hi> is higheſt: being <hi>Superiour</hi> to all,<note place="margin">Communitas nihil ſui con<g ref="char:EOLhyphen"/>fert Regibus. <hi>Spalat. Tom.</hi> II. 529.</note> but inferior to no man or <hi>community of men</hi> whatſoever. Now his Kingly dignity deriues its excellency</p>
+            <p>From the <hi>Author</hi> or inſtitutor thereof, <hi>God;</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> the ſublime power which reſides in earthly Poten<g ref="char:EOLhyphen"/>tates,<note place="margin">Summum Im<g ref="char:EOLhyphen"/>perium nun<g ref="char:EOLhyphen"/>quam fuiſte populo de mandatum.</note> is not a derivation or collection of humane power ſcattered among many, and gathered into one head; but a participation of Gods own omni<g ref="char:EOLhyphen"/>potency, which he never did communicate to any but crowned heads:<note place="margin">Meriander.</note> who are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the living Images of God, and derives their power from him.</hi> And this I could prove from the conſent of moſt Authors both antient, and mo<g ref="char:EOLhyphen"/>dern, but St <hi>Chryſoſtome</hi> hath ſaid enough alone in theſe words:<note place="margin">
+                  <hi>Rom.</hi> xiii.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; which may be Engliſhed out of St. <hi>Paul, the Powers that be are ordained
+<pb n="10" facs="tcp:94709:8"/>
+of God:</hi> to which alſo <hi>Tertullian</hi> bears witneſs: a Chriſtian (ſaith he) is no mans enemy, much leſs the Emperours, whom he knows to be ap<g ref="char:EOLhyphen"/>pointed by his God.<note place="margin">
+                  <hi>Pſal.</hi> xlvii. 9.</note> 
+               <hi>The ſhields of the earth are the Lords:</hi> they bear his arms and inſcription, and he holds them up over all the world. <hi>The Kingdom is the Lords,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> xxii. 28.</note> 
+               <hi>and he is the governour among all Nations.</hi> And this truth is the grand ſupporter of <hi>Monarchs Thrones: by me Kings Reign;</hi>
+               <note n="(c)" place="margin">Diviſim imperium cum Jove Caeſar habet.</note> which <hi>per</hi> denotes not a bare permiſſion, but by his commiſſion; not by Gods ſufferance only, but by his ordinance alſo; their Charter is grant<g ref="char:EOLhyphen"/>ed from heaven, and may not be revoked at the peoples pleaſure.</p>
+            <p>Magnificent Titles, triumphant Arches, honour<g ref="char:EOLhyphen"/>able Attendants, Crowns, Thrones and Scepters, are all requiſite, and ſuitable to the grandeur of a King: and apt to beget awe and reverence in the hearts of the Vulgar; but Alas this is but the outſide and <hi>Ceremony</hi> of the <hi>Sacred Majeſty,</hi> whoſe <hi>repreſentative</hi> the <hi>King</hi> is; this is that which ren<g ref="char:EOLhyphen"/>ders him truly <hi>ſacred</hi> to all religious and judicious men and minds; that he is placed in the throne to rule and govern us, by the appointment of God, whoſe <hi>King</hi> he is, and whoſe <hi>judgment</hi> he pronounceth.</p>
+            <p>Away then with that dangerous Tenent, that ſo frequently and maliciouſly falls from the mouths and pens of the ſeditious Rabble, that all Power
+<pb n="11" facs="tcp:94709:8"/>
+is from the people, interpreting <hi>dei Miniſter</hi> the peoples Servant: and if he comply not with their giddy humours, <hi>(which in Prudence and Conſcience he is not bound to doe),</hi> then they may aſſert their native right, and reaſſume the truſt repo<g ref="char:EOLhyphen"/>ſed in him! this <hi>monſtrous</hi> opinion flies in the face of God Almighty, by pretending to a law of <hi>na<g ref="char:EOLhyphen"/>ture,</hi> for the violation of all the <hi>laws</hi> both of <hi>God</hi> and <hi>man:</hi> And reproacheth the <hi>wiſdom</hi> of the moſt high, for appointing no better government over them. And to their other objection I anſwer that ſovereign powers have their imployment from God, and by his Authority; and ſo are his ſer<g ref="char:EOLhyphen"/>vants only: and the end of their employment is to be <hi>beneficial</hi> to the <hi>good</hi> of others, but not in <hi>Subjection</hi> to their powers. Now this truth right<g ref="char:EOLhyphen"/>ly improved, will be matter of <hi>Comfort</hi> to us: that the government we live under, is of <hi>Gods Inſtitution,</hi> and that God may bleſs his <hi>own</hi> ordinance, and continue it in the right Line: to the <hi>glory</hi> of his Name, and the <hi>good</hi> of this Nation; Let us pray <hi>God ſave the King, the Queen, the Illuſtrious Prince</hi> James <hi>Duke of</hi> York, <hi>and all the Royal Family.</hi>
+            </p>
+            <p>The excellency of <hi>Kingly dignity</hi> appears in this,<note place="margin">Jus Sangain nullo Jure d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rimi poteſt.</note> that even God himſelf hath among his own <hi>hono<g ref="char:EOLhyphen"/>rary</hi> titles, taken to himſelf the name of <hi>King;</hi> his title runs thus: <hi>King of Kings and Lord of Lords;</hi> and his goverment over the whole world is <hi>Monar<g ref="char:EOLhyphen"/>chical;</hi>
+               <pb n="12" facs="tcp:94709:9"/>
+for tho' there be three perſons in the ſacred <hi>Trinity,</hi> yet there is but <hi>one</hi> God, and confe<g ref="char:EOLhyphen"/>quently but one <hi>King</hi> everlaſting. Let then thoſe Scriblers and Pamphlereers, who of late have ſcattered their poyſon through the Nation to the diſparagement of <hi>Kingly</hi> government, and ruin of unwary Subjects: Let them (I ſay) bluſh for ſhame, and tremble to conſider, how through the ſide of their <hi>lawful Soveraign,</hi> they have ſtruck at <hi>God</hi>'s own <hi>Monarchy</hi> over the world, as far as their power or malice could extend.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The dignity of Kings is ſeen in their <hi>Supremacy,</hi> which is the moſt expreſs character of himſelf, which God can put upon a man:<note place="margin">1 Pet. ii. 13.</note> and ſuch a ſupremacy St. <hi>Peter</hi> tells us is only in <hi>God</hi> and the <hi>King;</hi> for God is the ſupreme ruler of Kings, and Kings are the ſupreme rulers of men; therefore God himſelf the better to oblige our obedience to them,<note place="margin">Pſal. lxxxii. 7.</note> as well as to himſelf, ſtiles them <hi>Gods.</hi> That God who by an omnipotent <hi>fiat,</hi> firſt called the paſſible world into act, and hath ever ſince laid out the ſame power for preſerving what he firſt created:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> hath indued <hi>Kings</hi> with Prerogative <hi>more</hi> than humane; for though they be ſhrouded under the Veil of mortality, yet their power bears no ſmall <hi>Reſemblance</hi> with the <hi>Deity;</hi> and to make the <hi>Supreme power,</hi> accountable to any <hi>Inferior Juriſdiction,</hi> or the <hi>will</hi> of the people; were to ſet up an authority over him, to whom
+<pb n="13" facs="tcp:94709:9"/>
+our <hi>ſubjection</hi> is due;<note place="margin">Illa dicitur ſumma pote<g ref="char:EOLhyphen"/>ſtas cujus actus alterius juri non ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>be<g ref="char:EOLhyphen"/>unt, ita ut alterius volun<g ref="char:EOLhyphen"/>tatis humanae arbitrio irriti poſſint reddi. <hi>Grotius.</hi>
+               </note> which is a down right con<g ref="char:EOLhyphen"/>tradiction in terms. For <hi>Supreme power</hi> is not, nor cannot be ſubject to <hi>anothers</hi> law; and this great truth all good ſubjects are obliged to defend <hi>with their lives</hi> and <hi>fortunes:</hi> For yield up the enemy but this one flower the Kings <hi>Prerogative,</hi> and their incroaching fingers will be reaching af<g ref="char:EOLhyphen"/>ter <hi>all!</hi> their malice being ſo <hi>unreaſonable,</hi> that a <hi>dear-bought</hi> experience hath told us; It is eaſier to <hi>deny them all,</hi> than having gratified them <hi>in part</hi> to preſcribe them a <hi>meaſure.</hi>
+            </p>
+            <p>And now methinks I hear our <hi>Antimonar<g ref="char:EOLhyphen"/>chiſts</hi> ſay, the doctrine of the <hi>Kings Supremacy</hi> is urged by none but thoſe that by <hi>Court-flattery</hi> ſeek their own preferment, and promote <hi>Arbi<g ref="char:EOLhyphen"/>trary Government.</hi> To which I Anſwer, If to preach <hi>obedience to Authority</hi> does brand men with the name of flatterers; they cannot excuſe <hi>God almighty,</hi> the <hi>bleſſed Jeſus,</hi> the <hi>Patriarks, Prophets, Apoſtles, Saints,</hi> and <hi>Martyrs,</hi> from being guilty of it. For this is the <hi>Doctrine of the Bible,</hi> and the language of <hi>good</hi> men in all ages; and if this be a ſcandall, God grant that all the <hi>Sons</hi> of the <hi>Church of England,</hi> may live under this diſgrace, and dye under this <hi>Ignominy.</hi>
+            </p>
+            <p>Neither is this the way to promote arbitrary government, but the contrary; for the <hi>Kings Supremacy</hi> is the <hi>Subjects ſafety,</hi> tis that <hi>Palladium</hi> which whilſt preſerved <hi>Inviolable,</hi> ſtands as a
+<pb n="14" facs="tcp:94709:10"/>
+bulwark about the Nation, to protect us in our <hi>rights,</hi> both <hi>Civil</hi> and <hi>Religious;</hi> For by this Truſt repoſed in the <hi>Prince, Each ſingle Perſon is forti<g ref="char:EOLhyphen"/>fied with the ſtrength of a Nation.</hi> And this is atteſted by the every days Experience of all our fellow Subjects who live quiet, obedient, and peaceable Lives; and oppoſed by none but thoſe that think his Majeſties Guards a grievance, his Laws an oppreſſion, and the benefit of his Life and Reign, a check to their diſobedience and re<g ref="char:EOLhyphen"/>bellions.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Come we now in the third place to ſpeak of the Perſon ſupplicated to, <hi>God;</hi> and indeed to whom ſhould Perſons addreſs their Prayers for their King, but unto their God: who is <hi>King of Kings,</hi> who hath both Authority to make, and Power to preſerve them: and by all demonſtra<g ref="char:EOLhyphen"/>tion of Kindneſs, <hi>watcheth over them for good?</hi> Nay ſo jealous is God Almighty in this particu<g ref="char:EOLhyphen"/>lar, that he will not allow any mortal man, or thing, to have the honour of reſcuing them from danger: nor give the glory of their Preſer<g ref="char:EOLhyphen"/>vation to any other than himſelf; <hi>it is God that giveth Salvation unto Kings, and delivereth</hi> David <hi>from the hurtful Sword.</hi> It is not the Wiſdom of his <hi>Counſellors,</hi> the Care of his <hi>Ma<g ref="char:EOLhyphen"/>giſtrates,</hi> the Fidelity of his <hi>Servants,</hi> nor the Courage of his <hi>Soldiers,</hi> that preſerve a King; (tho' all theſe act commendably in their Stations)
+<pb n="15" facs="tcp:94709:10"/>
+for unleſs the Lord <hi>watch</hi> over <hi>Them</hi> as well as their <hi>Cities,</hi> the <hi>Watchman waketh but in vain.</hi> Nor can the Love of his Subjects lengthen his days, the beſt Office they can do him, is but like the People in the Text, to pray for his Health; it is God only that can give him Help in the time of Trouble; be Rebels never ſo rebellious and outragious, he that ſtilleth the raging of the Sea, and the madneſs of the Multitude, can ſo charm the unrulineſs of a Seditious People, as to bring them to Submiſſion or Confuſion. Now God's ſpecial care and providence over his Anoin<g ref="char:EOLhyphen"/>ted Ones, is ſhewn in Scripture, by a threefold injunction, laid by Himſelf upon their Subjects, under very ſevere and heavy penalties.</p>
+            <p>God doth not allow any Subject to harbour in his breaſt an ill Thought againſt his So<g ref="char:EOLhyphen"/>vereign: <hi>Curſe not the King, no not in thy thoughts,</hi>
+               <note place="margin">
+                  <hi>Eccleſ.</hi> x. 20.</note> 
+               <hi>for the birds of the Air ſhall carry the voice, and that which hath wings ſhall tell the matter.</hi> By which ſome <hi>Commentators</hi> underſtand a Power given by God to the <hi>Tutelary Angels</hi> of <hi>Kings</hi> and <hi>Governours,</hi> to underſtand the trayterous thoughts of all ſuch as bear diſloyal and treacher<g ref="char:EOLhyphen"/>ous hearts againſt their Princes. That the Sin of Rebellion might never be brought forth, God does ſtifle it in the <hi>Womb,</hi> nip it in the bud, and deſtroy it in the very <hi>thoughts;</hi> that it may never come to do further miſchief. And greater Reaſon
+<pb n="16" facs="tcp:94709:11"/>
+is there for our obſervance of this Prohibition, ſince the firſt entertainments of Sin, are often<g ref="char:EOLhyphen"/>times of dangerous conſequence; while the Enemy is without doors, it is an eaſie matter to keep him there, but when he has entred the houſe, he is not expulſed without trouble and difficulty; therefore God Almighty, who always deſigns the good of his People, that we might not inure our <hi>Tongues</hi> to ſpeak Evil of <hi>Dignities,</hi> nor ſtretch forth our <hi>Hands</hi> againſt the <hi>Lords Anointed,</hi> will not permit us to lodge a diſloyal thought in the moſt ſecret receſſes of our boſoms.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Not to open our mouths, in diſparagement of their Perſons or government; and great cauſe is there for this prohibition alſo, or no ſooner hath <hi>Pride</hi> formed men into <hi>Diſobedience,</hi> but the next ſtep they take is by <hi>Reproaches</hi> to ruine the re<g ref="char:EOLhyphen"/>putation of the government, and impede the ac<g ref="char:EOLhyphen"/>compliſhment of righteous deſigns. Reputation being to actions, what Feathers are to Arrows, making them fly the better and pierce the deep<g ref="char:EOLhyphen"/>er: they indeavour to deprive their governors of this advantage. If there be any fallings in their converſation, they are ſure to be repreſented in the <hi>blackeſt Colour:</hi> And by all the advantages of art, improved into a <hi>Condemnation</hi> of the whole conſtitution: Theſe were the wretched methods that firſt begat, and alſo continue the feeds of rebellion among us. Let the <hi>King</hi> ſay what he
+<pb n="17" facs="tcp:94709:11"/>
+will, they <hi>read it backwards;</hi> and make the beſt of his actions ſpeak nothing but <hi>Arbitrary Government,</hi> and <hi>Perſecution.</hi> When the King declares he will govern by the <hi>known Laws:</hi> they remonſtrate that he <hi>does not,</hi> and ſuggeſt by their <hi>groundleſs</hi> and unreaſonable <hi>faers</hi> and <hi>jealouſy</hi> that <hi>he will not!</hi> and by <hi>carping</hi> at his proceedings and <hi>miſrepreſenting</hi> his actions, ſo deflower the beauty of his Crown with Satyrical invectives that he becomes leſs able to ſerve thoſe great ends for which government was inſtituted! if therefore you deſire to approve your ſelves <hi>good Subjects,</hi> and <hi>good Chriſtians; invent</hi> not evil ſtories of him whom God hath ſet over you, <hi>falſly, believe</hi> them not <hi>eaſily, report</hi> them not <hi>diſloyally, aggravate</hi> them not <hi>ſpitefully, ſcatter</hi> them not <hi>induſtriouſly;</hi> but aprrehend ſuch diſloyal thieves whom you take a pillaging your Princes <hi>good name;</hi> the for<g ref="char:EOLhyphen"/>ward receiver of an evil report, being as bad as he that brings it; always remembring that railing againſt Kings was a Capital crime in <hi>David</hi>'s judgment who commanded <hi>Solomon</hi> to put <hi>Shimei</hi> to death for it.</p>
+            <p>Not to lift up a finger to their prejudice; for <milestone type="tcpmilestone" unit="unspecified" n="3"/> no man can do it and be guiltleſs; <hi>Touch not mine Anointed,</hi> ſaith the Pſalmiſt, and <hi>waſt thou not afraid to ſtretch forth thine</hi> hand againſt the Lords Anointed? ſaith <hi>David</hi> to the wicked <hi>Amalekite,</hi> that ſlew King <hi>Saul;</hi> in all times hath God ma<g ref="char:EOLhyphen"/>nifeſted
+<pb n="18" facs="tcp:94709:12"/>
+his vengeance againſt ſuch <hi>Rebells</hi> as have riſen up againſt them: witneſs <hi>Corah, Dathan,</hi> and <hi>Abiram,</hi> whom the earth ſwallowed up quick, and became at once both their Sexton and their grave. Witneſs <hi>Zimri</hi> burnt to aſhes in that very palace, whence he had driven his Lord and Sovereign; and ſo notable a vengeance indeed it was, that wicked <hi>Jezabel</hi> took ſpecial notice of it: for had <hi>Zimri</hi> Peace (ſaid ſhe) that <hi>ſlew his Maſter?</hi> I might here be infinite, if I ſhould add to theſe inſtances all thoſe <hi>dreadful Examples</hi> of God's Vengeance againſt ſuch as have been <hi>Rebells</hi> againſt their Kings; which I could fetch you both from <hi>Eccleſiaſtical</hi> and <hi>Secular</hi> Hiſto<g ref="char:EOLhyphen"/>ries; but I ſhall at preſent eaſe my ſelf and you of that Trouble, ſince what hath already been ſaid, does ſufficiently demonſtrate, that God hath a moſt ſpecial and particular Care in the Pre<g ref="char:EOLhyphen"/>ſervation of Kings; and therefore to none ſo fitly may the People addreſs themſelves for the Life and Safety of their Sovereign, as unto God, and more comprehenſive words we cannot uſe, than what is preſcrib'd in the Text, <hi>God ſave the King.</hi>
+            </p>
+            <p>The laſt particular is the matter of the Suppli<g ref="char:EOLhyphen"/>cation, <hi>That the King might be Saved and Pre<g ref="char:EOLhyphen"/>ſerved,</hi> and all the People ſhouted, and ſaid, <hi>God ſave the King.</hi> And we are encouraged to a chearful performance of this duty, becauſe God doth uſually grant it, and becauſe the King needs
+<pb n="19" facs="tcp:94709:12"/>
+it more than ordinary perſons do. The King's duty is more difficult, his abundance expoſeth him to more temptations, and his height to more dangers than any of his People, and his preſer<g ref="char:EOLhyphen"/>vation is far more neceſſary, and of univerſal concernment, for <hi>he is worth ten thouſand of us;</hi> and we had need pray heartily to God to Save him, who doth defend us all: the King ſtands in need of more wiſdom to direct him, more power to protect him, more care to preſerve him, than other men. For as the King doth not Live <hi>Sibi ſed Populo,</hi> ſo neither doth he Dye to his own, but to our diſadvantage: a thouſand others may ſteal out of the World and no body mind or miſs them, but the loſs of a King would ſoon be felt; therefore ſaith the Apoſtle, <hi>I Exhort that firſt of all Supplications and Pray<g ref="char:EOLhyphen"/>ers be made for all men, for Kings, and all that are in Authority:</hi> and (however the Author of the Life of <hi>Julian</hi> raking up ſome <hi>paſſionate</hi> Ex<g ref="char:EOLhyphen"/>preſſions in one of the <hi>Fathers,</hi> hath falſly, ma<g ref="char:EOLhyphen"/>liciouſly and ſcandalouſly, repreſented the whole) this is agreeable to the Practice of the <hi>Primitive Chriſtians,</hi> as we may read in <hi>Tertullian: Ora<g ref="char:EOLhyphen"/>mus pro omnibus Imperatoribus, vitam illis prolixam, Imperium ſecurum, domum tutam, exercitus fortes, Senatum fidelem, populum probum, orbem quietum, &amp; quaecunque hominis, &amp; Caeſaris vota ſunt.</hi> We pray for a long Life, for our Emperours, a ſecure
+<pb n="20" facs="tcp:94709:13"/>
+Empire, a ſafe Houſe, valiant Armies, a faithful Senate, a good People, a quiet World, and what<g ref="char:EOLhyphen"/>ſoever <hi>Caeſar</hi> or any man can wiſh for or deſire.</p>
+            <p>Thus have I ſhew'd you that it is the duty of all good <hi>Chriſtians</hi> and all good <hi>Subjects</hi> to Pray for the Safety and Preſervation of the King. I come to the reaſons inforcing this duty, and the firſt is, <hi>we have need to pray for the King.</hi>
+            </p>
+            <p n="1">1. Becauſe his Safety is fiercely oppoſed, and his Life in danger upon the account of Policy, and under the pretence of Religion. Upon the account of Policy Monarchy it ſelf is undermined by the <hi>Republicans,</hi> to lay a foundation for ſuch an <hi>Anarchy</hi> as they are pleaſed to call a <hi>Common-Wealth:</hi> but this being wholly out of my Sphere, I ſhall not invade the States-man's Province any further, than to tell you, beſides being Subjects to the King in our <hi>Parents Loins,</hi> and ſo under Obligations to Obedience by the <hi>Law of Nature,</hi> we are in the bonds of <hi>Religion</hi> and <hi>Conſcience,</hi> tyed to Subjection, by many ſolemn Oaths, wherein we have lifted up our hands to the moſt high, and ſworn <hi>not to indeavour any alteration and change in the Government.</hi> And I hope we are none of us ſo fond of a <hi>Common Woe</hi> as to go to the <hi>Devil</hi> by wilful <hi>Perjury,</hi> to ſet up the Tyranny of our Fellow-Subjects, and for your fuller Satisfaction, give me leave to repeat the words of the Learned Biſhop <hi>Sanderſon,</hi> whoſe
+<pb n="21" facs="tcp:94709:13"/>
+ſingle judgement is of greater value, than the whole rout of thoſe that would unhinge our Government.<note place="margin">Lib. de Oblig. Conſc. <hi>p. 350.</hi>
+               </note> 
+               <hi>I think</hi> (ſaith he) <hi>an Hereditary Kingdom may not lawfully be changed for an Elective nor for any other ſort of Government, either by the People alone, nor by the People and Nobles joyntly, nor by the whole Body of the People in their greateſt latitude, that is, the People, Nobles, and the King conſenting together: unleſs perhaps the whole Royal Progeny ſhould ſo totally fail that there is not one ſurviving who may claim it as his due by Right of Inheritance;</hi> all which conſidered, it amounts to this; That unleſs we will violate the Law of <hi>Nature,</hi> and <hi>Religion,</hi> and incur the heavy guilt of <hi>Perjury,</hi> we muſt behave our ſelves like dutiful and obedient Subjects, praying always, <hi>God Save the King.</hi>
+            </p>
+            <p>Again, the <hi>Safety</hi> of Kings is impugned under the pretence of Religion, by the ſeveral ſorts of <hi>Diſſenters,</hi> whom I cannot being under one deno<g ref="char:EOLhyphen"/>mination, unleſs it be in calling them all <hi>Amale<g ref="char:EOLhyphen"/>kites;</hi> and truly it will concern them to con<g ref="char:EOLhyphen"/>ſider, if they do not deſerve the Name, and I pray God give them grace to conſider, whether the Curſe of <hi>Amaleck</hi> be not juſtly their portion.</p>
+            <p>I ſay this Truth is oppoſed by the Rebellious and Bloody Tenents of the <hi>Jeſuits, Anabaptiſts,</hi> and <hi>Presbyterians;</hi> I rank them all together, for tho' like <hi>Sampſon</hi>'s <hi>Foxes</hi> their heads part, yet
+<pb n="22" facs="tcp:94709:14"/>
+their tails are joyned to put the Kingdom in a Combuſtion.</p>
+            <p>It is the conſtant Tenent of the <hi>Jeſuits,</hi> that King-killing is not only Lawfull, but Meritori<g ref="char:EOLhyphen"/>ous, if he be an Heretical King; that is to ſay, if he be not a <hi>Roman-Catholick.</hi> And to this deviliſh Doctrine are they ſo wedded, (however ſome of their Church are pleaſed to obſcure it) that they leave no ways unattempted to put 'em into practice; as the woful Tragedies they have Acted on the Theatre of the World is too ſad a proof. And that theſe are their <hi>Principles,</hi> I re<g ref="char:EOLhyphen"/>fer you to <hi>Azor, Bellarmine,</hi> and <hi>Mariana,</hi> who have wrote, printed, and publiſhed to the world, Tracts of the Lawfulneſs of Regicide; of whom I ſhall add no more here,<note place="margin">Cauſe and Cure of Scandal. <hi>Pag. 11.</hi>
+               </note> having done it fully in another Treatiſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The Safety of Kings is oppoſed by the bloody principles of the <hi>Independents, Anabaptiſts,</hi> and <hi>Fift-Monarchiſts:</hi> for what elſe were the publick Preachments of all theſe men in our late days of Rebellion, but what tended to the ruine of our Monarchy,<note place="margin">Evangelium Armatum. <hi>pag.</hi> 26.</note> as you may read in the <hi>Par<g ref="char:EOLhyphen"/>liamentary Sermons</hi> of <hi>Burton, Marſhal, Nye, Caryl, Bridges, Saltmarſh,</hi> &amp;c. And of the ſame ſtamp were the harangues of <hi>Muncer</hi> in <hi>Germany,</hi> as you may read at large in the firſt of <hi>Sleidan</hi>'s Com<g ref="char:EOLhyphen"/>mentaries. God that cannot lye (ſaith he) hath warn'd me face to face, to attempt the Change
+<pb n="23" facs="tcp:94709:14"/>
+of the Government, by killing the Magiſtrates: and <hi>Phipher</hi> (his Brother in Iniquity) did but dream of Killing Rats, and Mice, and Expounds his Dream of Murthering the <hi>Nobles;</hi> and did not thoſe <hi>Fift-Monarchiſts,</hi> the <hi>Engliſh</hi> Rebels in <hi>Venner</hi>'s Rebellion (having laid their Accurſed Deſigns the <hi>Sunday</hi> before in their <hi>Conventicle</hi> in <hi>Coleman-ſtreet</hi>) proceed in the ſame manner, and juſtifie their Principles with their Arms, till the hand of Juſtice overtook them. It was an Ob<g ref="char:EOLhyphen"/>ſervation of old, <q>
+                  <l>—Regnabit Sanguine multo,</l>
+                  <l>Ad Regnum quiſquis venit ab Exilio.</l>
+               </q>
+The King that returns after Exile, will Reign for the future in Blood and Revenge: but our <hi>Gra<g ref="char:EOLhyphen"/>cious Sovereign,</hi> reſembling God in one of his nobleſt Attributes, that of his <hi>Mercy,</hi> had at the ſame inſtant given Life to them who were in<g ref="char:EOLhyphen"/>deavouring to take away his. <hi>Odiorum cauſae acri<g ref="char:EOLhyphen"/>ores, quia iniquiores.</hi> Their Hatred was the <hi>ſharper</hi> becauſe it was the <hi>unjuſter,</hi> and ſo ſtain'd them<g ref="char:EOLhyphen"/>ſelves with the <hi>black</hi> Guilt not only of Rebellion, but of an <hi>ungrateful Rebellion!</hi> whereas an ordi<g ref="char:EOLhyphen"/>nary ſtock of <hi>Ingenuity</hi> and <hi>Religion,</hi> upon the receipt of ſo great a Mercy as <hi>Pardon</hi> and <hi>Pro<g ref="char:EOLhyphen"/>perty,</hi> would have ſilenced their <hi>Murmurings,</hi> and made them loud in <hi>Applauſes</hi> and <hi>Thanks</hi> for the felicity of his Reign; but on the contrary, we ſee that when men are inclin'd to Miſchief upon
+<pb n="24" facs="tcp:94709:15"/>
+the account of their Religion, they prove the great<g ref="char:EOLhyphen"/>eſt Villains in the world: and notwithſtanding all obligations that <hi>Heaven</hi> and <hi>Earth</hi> can beſtow upon them, <hi>Hell</hi> gets the upper hand.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Nor have the Sons of the <hi>Presbyterian Kirk</hi> leſs oppoſed the ſafety and wellfare of Kings, by thoſe dangerous poſitions they have publiſhed to the world! Doctrines that will make you bluſh, ſweat, and tremble, if you have any fear of God or any honour for the King. And that I may not be ſuppoſed to do them wrong, I will Cite their Names, and Books, from whence I have collected them.</p>
+            <p>
+               <note place="margin">Pag. 30.</note>
+               <hi>Goodman</hi> ſaith in his Book of Obedience, That it is unlawful in any caſe to reſiſt the Superior pnwers, is a dangerous Doctrine, taught by ſome by the Permiſſion of God for our Sins.</p>
+            <p>And again <hi>pag.</hi> 53. ſays, that the reaſons that moved the <hi>Pope</hi> to deſpoſe Kings was good and juſt, and meet to be received and Executed by the body of every Common wealth.</p>
+            <p>
+               <note place="margin">
+                  <hi>Apel.</hi> Pag. 26.</note>
+               <hi>Knox</hi> the <hi>Scottiſh Presbyter</hi> ſays, it is blaſphemy to ſay we muſt obey Kings whether they be good or evil. And aſſerts <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <note place="margin">Pag. 26.</note>
+               <hi>Buchanan</hi> in his Book <hi>de jure Regni apud Scotos,</hi> among other things of dangerous conſequence to crowned heads ſays, <hi>populus rege eſt praſtantior &amp; melior:</hi>
+               <note place="margin">Pag. 38.</note> The People are more excellent than the King: And this he avoucheth with the greateſt
+<pb n="25" facs="tcp:94709:15"/>
+confidence imaginable, though the Holy Scripture ſays plainly, that the King is worth ten thouſand of the people.</p>
+            <p>The ſame Author ſays that the People have the ſame power over the King, that the King hath over any one man and that Miniſters may Ex<g ref="char:EOLhyphen"/>communicate him: and then draws this dam<g ref="char:EOLhyphen"/>nable concluſion, that he who by Excommnicati<g ref="char:EOLhyphen"/>on is caſt into hell is not worthy to live upon earth. <hi>Thus hath the Scotch Rebell like that Ita<g ref="char:EOLhyphen"/>lian Tyrant taught Sbjects how at one blow they may kill both the Body and Soul of their Prince.</hi>
+            </p>
+            <p>But as if this were not bad enough yet,<note place="margin">Pag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 40.</note> the <hi>wretched Presbyter</hi> adds, that it were very good that rewards were appointed by the people for ſuch as ſhould kill Tyrants, (and ſuch they ac<g ref="char:EOLhyphen"/>count all thoſe Kings that will not ſubmit their necks to the yoke of their diſcipline,) as there be ſallaries allowed for thoſe <hi>qui lupos aut urſos oc<g ref="char:EOLhyphen"/>ciderunt aut catulos eorum deprehenderunt;</hi> Who have killed Wolves or Bears or have deſtroyed their brood.</p>
+            <p>And who that hears theſe Doctrines more bloody than <hi>Popery</hi> or <hi>Paganiſm,</hi> will doubt that 'tis <hi>the leaders of theſe people,</hi> that dipping their pens in <hi>Gall</hi> make way for the <hi>ſword</hi> to glut it ſelf with the <hi>Blood of Kings.</hi>
+            </p>
+            <p>Nor were our <hi>Engliſh Presbyters and Indepen<g ref="char:EOLhyphen"/>dents</hi> much behind their holy brethren the <hi>Scots</hi>
+               <pb n="26" facs="tcp:94709:16"/>
+in wicked confederacy and againſt their King, and like the <hi>Prieſts</hi> and <hi>Praeco</hi>'s of <hi>Mars</hi> in ſcattering <hi>Fire-brands</hi> through the Nation.</p>
+            <p>
+               <note place="margin">Book of the Covenant, in <hi>Evangel. Ar<g ref="char:EOLhyphen"/>mat.</hi> pag. <hi>42.</hi>
+               </note>Mr. <hi>Caſe</hi> calls the late <hi>Rebellion</hi> the <hi>Holy War,</hi> the Cauſe of God, and Saints all that ingaged in it, the <hi>Scotch Covenant</hi> he calls <hi>Chriſts marriage-con<g ref="char:EOLhyphen"/>tract;</hi> and ſays to act againſt it was to <hi>deſpight the Holy Ghoſt.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Zach. Crofton</hi>'s Anſw. to Bp. <hi>Gauden.</hi> Edit. 3. Pag. 22.</note>
+               <hi>Crofton</hi> ſays that all Acts of Parliament made againſt it were damnable, and that <hi>Parents</hi> ought to baptize their <hi>Children</hi> into the Scotch Covenant.</p>
+            <p>
+               <note place="margin">
+                  <hi>Spirit of Pope<g ref="char:EOLhyphen"/>ry.</hi> 7. 26. 42. <hi>Calamy</hi>'s Ser. before the Lords. <hi>Dec.</hi> 25. 1644. <hi>Jenkin</hi>'s Hum<g ref="char:EOLhyphen"/>ble Pet. <hi>Oct.</hi> 15. 1657.</note>Mr. <hi>Calamy</hi> and Mr. <hi>Jenkins</hi> ſaid, that the Parliament without the King were the Supreme power of the Nation, and that they were aſſiſted by the ſpeciall direction of God; And that none could do ſuch things (<hi>viz</hi> Rebelling againſt the King and Butchering his Subjects) except God were with them.</p>
+            <p>Mr. <hi>Love</hi> in his Sermon at the Treaty at <hi>
+                  <g ref="char:V">Ʋ</g>x<g ref="char:EOLhyphen"/>bridge</hi> Says, that the Sword not Arguments muſt end that Controverſy.</p>
+            <p>
+               <note place="margin">
+                  <hi>Evangel. Ar<g ref="char:EOLhyphen"/>mat. vid.</hi> Firſt &amp; Second Part of the Hiſtory of Separation.</note>Mr. <hi>Baxter</hi> hath ſaid enough in his <hi>Holy Com<g ref="char:EOLhyphen"/>mon-wealth</hi> and other writings, to prove him the Bell-weather of Sedition, and a man of blood and he that would ſee further let him view the firſt and ſecond part of the <hi>Diſſenters ſayings,</hi> collected from their works, and beſides this, Rebellion againſt and depoſing of Princes, is warranted in a<g ref="char:EOLhyphen"/>bove twenty places in the Aſſemblies Annotations,
+<pb n="27" facs="tcp:94709:16"/>
+and of the ſame Complexion is Mr. <hi>Pool's Criticks.</hi>
+               <note place="margin">Vid. <hi>Hiſt.</hi> Atha<g ref="char:EOLhyphen"/>liah.</note>
+            </p>
+            <p>Thus have you ſeen <hi>the Devil of Rebellion transforming himſelf into an Angel of Reformation,</hi>
+               <note place="margin">Icon Biſil.</note> and thoſe that ſhould have been Embaſſadours of Peace, the fomenters of an unnatural and bloody War: And all under the pretence of <hi>Religion.</hi> The true Religion prevailed upon the world by <hi>Purity</hi> of Doctrine and <hi>Innocency</hi> of Life, but theſe mens principles having (in this particular) a nearer affinity to the Laws of the Impoſtor <hi>Maho<g ref="char:EOLhyphen"/>met,</hi>
+               <note place="margin">-pudet haec op<g ref="char:EOLhyphen"/>probr a nobis &amp; dici potuiſle &amp; non potuiſle refelli.</note> than the precepts of the Holy <hi>Jeſus (a)</hi> took the ſame method for the Eſtabliſhment there<g ref="char:EOLhyphen"/>of as he did, who injoyn'd his worſhipers by a Law,<note place="margin">
+                  <hi>Alcor.</hi> pag. 125.</note> to perſevere in Killing Chriſtians till they was rooted out of the earth. So that if <hi>Rebellion</hi> be <hi>Religion,</hi> then the <hi>Papiſts, Mahumetans,</hi> and <hi>Presbyterians,</hi> are the only true Proteſtants in the world: if the <hi>Second</hi> murther of a King, and utter ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irpa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of the <hi>Royall Family,</hi> the way to promote Gods Glory, then are <hi>Diſſenters</hi> the only Champion for the Government! and to ſay worſe of them, than that they are <hi>Seditious</hi> and <hi>Rebelli<g ref="char:EOLhyphen"/>ous,</hi> upon the accompt of their <hi>Religious Principles,</hi> were to caſt <hi>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k</hi> upon the face of an <hi>Ethiopian.</hi>
+            </p>
+            <p>You have now heard ſome of thoſe <hi>Monſtrous</hi> Doctrines that in defiance to the Laws of God and Man, encourage the Reſiſtance, and conſequent<g ref="char:EOLhyphen"/>ly the ruin of Kings. But that they are as oppoſite
+<pb n="28" facs="tcp:94709:17"/>
+to truth as <hi>Light</hi> is to <hi>Darkneſs,</hi> is the next par<g ref="char:EOLhyphen"/>ticular wherewith I ſhall Exerciſe your patience and this I will do, by proving that <hi>Religion doth not exempt us from the Authority and Power of Kings and rulers, though they be infidels and Heathens and not only ſtrangers but Enemies to true Religion and the profeſſors of it.</hi>
+            </p>
+            <p>It is not objecting <hi>Enormities</hi> in the Religion Life or Government of a King that can abſolve their ſubjects from <hi>Obedience;</hi> for the tyes and bonds of duty and ſubjection to them, are Sacred and inviolable: Dominion and ſoveraignty are the <hi>Ordinances</hi> of God, not as he is the <hi>Author of grace,</hi> and <hi>redeemer of his Church:</hi> But as he is the <hi>Author</hi> of mankind, and <hi>Governour of the world. Dominium temporale non fundatur in gratia.</hi> Super<g ref="char:EOLhyphen"/>natural grace is not that which conſtitutes King<g ref="char:EOLhyphen"/>doms, nor is the calling of Magiſtrates a <hi>Miſtery of the Goſpel</hi> but <hi>an appointment of God</hi> by his <hi>univerſall providence.</hi> The duty of Children to Parents, of Servants to Maſters, of Subjects to Princes, is not a conſequence of <hi>Chriſtianity;</hi> but a principle of <hi>Nature</hi> and unalterable, by <hi>Religon</hi> a Chriſtian <hi>Child</hi> cannot abandon his duty to his <hi>Parents,</hi> tho they be <hi>Heathens or Infidels;</hi> a Chriſtian <hi>Servant</hi> cannot ſhake off the yoke of <hi>Subjection,</hi> becauſe his Maſter is an <hi>
+                  <g ref="char:V">Ʋ</g>nbeliever,</hi>
+               <note place="margin">1 <hi>Tim.</hi> vi. 1.</note> nor Chriſtian <hi>Subjects</hi> deny their al<g ref="char:EOLhyphen"/>legiance to their Lawful Sovereign, tho <hi>Heathen</hi>
+               <pb n="29" facs="tcp:94709:17"/>
+and <hi>Infidells:</hi> And he muſt be a ſtranger to the Sacred records, and the practice of good men in all ages that aſſerts the contrary. But that I may give you one Example for all, in a caſe that directly agrees with all that the Enemies of Mo<g ref="char:EOLhyphen"/>narchy can object againſt our obedience, ſee it in the Prophet <hi>Daniels</hi> behaviour towards King <hi>Darius.</hi>
+            </p>
+            <p>Now this <hi>Darius</hi> was a <hi>Heathen</hi> Prince, one that kept the Church and people of God in cruel bondage and captivity,<note place="margin">
+                  <hi>Dan.</hi> iii.</note> one that by cruel artifices <hi>pr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed Idolatry</hi> and perſecuted the people of God with the <hi>Fiery furnace,</hi> and Sentenced the Pro<g ref="char:EOLhyphen"/>phet <hi>Daniel</hi> to be <hi>Devoured of Lyons:</hi> And yet we find the good Prophet ſo far from <hi>upbraiding</hi> him with <hi>Tyranny,</hi> or threatning him with <hi>vengeance</hi> and <hi>Judgments</hi> from God: that he owns his <hi>Sovereignty</hi> and <hi>Rightfull Power</hi> over him, and <hi>prays</hi> for his <hi>Health, Proſperity,</hi> and <hi>Eternal felicity,</hi> in theſe words <hi>O King live for ever.</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> vi. 21.</note>
+            </p>
+            <p>The next Example I ſhall urge is that of the Holy and bleſſed <hi>Jeſus,</hi>
+               <note place="margin">
+                  <hi>John</hi> xix. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> who acknowledges Sub<g ref="char:EOLhyphen"/>jection to <hi>Pilate</hi> and that his power over him was <hi>from Heaven:</hi>
+               <note place="margin">Glorioſum eſt ſequi domi<g ref="char:EOLhyphen"/>num.</note> and tho' he had the whole hoſt of <hi>Angells</hi> at his command, neither made <hi>Reſiſtance</hi> himſelf, nor would <hi>permit</hi> it in his followers.</p>
+            <p>And St. <hi>Paul</hi> alſo who lived in the times of <hi>Heathen</hi> perſecutors enjoyns <hi>every Soul to be ſubject to them</hi> though they were Heathens: For Chriſti<g ref="char:EOLhyphen"/>anity
+<pb n="30" facs="tcp:94709:18"/>
+is ſo far from giving immunity from Obedi<g ref="char:EOLhyphen"/>ence, that it inforceth the duty from our Obli<g ref="char:EOLhyphen"/>gations to God, whoſe Authority they bare; and from which <hi>divine commiſſion</hi> it is directly con<g ref="char:EOLhyphen"/>ſequent, that he makes any violent <hi>Reſiſtance,</hi> or <hi>oppoſition</hi> to the ſupreme Magiſtrate, to be an <hi>affront</hi> offered to <hi>God himſelf;</hi>
+               <note place="margin">In talibus non obedientes, mortaliter peccant. niſi foret illud quod praecipi<g ref="char:EOLhyphen"/>tur, contra praeceptum dei, vel in Salutis diſpen<g ref="char:EOLhyphen"/>dium. <hi>Angel. Sum. verb. obed.</hi>
+               </note> for which they ſhall receive that puniſhment which belongs to ſo Sacrilegious a contumacy, <hi>Eternal Damnation.</hi>
+            </p>
+            <p>St. <hi>Peter</hi> likewiſe preaches the ſame Doctrine, and urgeth our Obedience to <hi>Claudius,</hi> or <hi>Nero,</hi> upon the account of giving Credit and Reputation to our Religion: Obedience to Authority being one of the prime characteriſticks, whereby a Chriſtian is to be known; and when Subjects are Rebellious, although they are ſo to <hi>Heathen</hi> Magiſtrates, they draw <hi>diſgrace</hi> upon the <hi>Goſpel,</hi> and tempt the <hi>Infidels</hi> to believe, that men are the <hi>worſe</hi> for being <hi>Chriſtians,</hi> that the <hi>Do<g ref="char:EOLhyphen"/>ctrine of Chriſt</hi> is <hi>corruptive</hi> of <hi>Principles</hi> as well as <hi>Manners;</hi> and Chriſtian Liberty but a Cloak for Rebellious Practices. Now to Antidote this Venom, and to wipe off this Diſparagement, St. <hi>Peter</hi> Commands us <hi>to ſubmit to every Ordi<g ref="char:EOLhyphen"/>nance of man for the Lords Sake,</hi>
+               <note place="margin">1 Pet. ii. 13.</note> 
+               <hi>for ſo is the will of God, that by well-doing ye put to ſilence the igno<g ref="char:EOLhyphen"/>rance of fooliſh men.</hi> And having thus from plain Scripture ſhewed, that no pretence what<g ref="char:EOLhyphen"/>ſoever can warrant diſobedience to our Lawful
+<pb n="31" facs="tcp:94709:18"/>
+Sovereign, it will neceſſarily follow; that either the Texts alledged are not <hi>Scripture,</hi> or the men that taught the contrary are not <hi>Chriſtians;</hi> but ſuch a generation of men,<note place="margin">Non opus vos habere civem qui parere neſciret. <hi>Marc. Cur.</hi>
+               </note> as give the <hi>Princes</hi> of the world a juſt occaſion to be <hi>jealous</hi> of them; and to root thoſe Principles out of their Domi<g ref="char:EOLhyphen"/>nions; for what Prince can be <hi>Safe,</hi> whilſt ſuch men abide and <hi>multiply</hi> in their Territories, that profeſs it to be a Principle of their <hi>Religion,</hi> to make <hi>Reſiſtance</hi> againſt them.</p>
+            <p>And agreeable to this Doctrine of the Bleſſed <hi>Jeſus,</hi> which ſecured Obedience to the worſt of Kings, was the Practice of the <hi>Primitive Chriſti<g ref="char:EOLhyphen"/>ans</hi> towards their <hi>Perſecuting Emperours,</hi>
+               <note place="margin">Propter domi<g ref="char:EOLhyphen"/>num aeternum domino tem<g ref="char:EOLhyphen"/>porali Servie<g ref="char:EOLhyphen"/>bant. <hi>Aug. Pſal.</hi> cxxiv.</note> that ſpilt their <hi>Blood,</hi> and made havock of them; for tho' they were able to wage <hi>War</hi> with their <hi>Empe<g ref="char:EOLhyphen"/>rors,</hi> yet <hi>Conſcience</hi> and <hi>Chriſtianity</hi> forbad them to reſiſt, but commanded them to <hi>Pray</hi> for them. And ſince (thanks be to God) our Caſe is other<g ref="char:EOLhyphen"/>wiſe, and we have a <hi>Merciful</hi> and <hi>Gracious</hi> King,<note place="margin">Animatam Dei <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>magi<g ref="char:EOLhyphen"/>nem. <hi>Cypr,</hi>
+               </note> who is our <hi>lawful natural</hi> liege Lord, a <hi>juſt</hi> poſſeſſor of his Crown, a <hi>worſhipper</hi> of the Living <hi>God,</hi> a <hi>defender</hi> of the <hi>true Antient Catholick and Apoſtolick Faith,</hi> a maker of <hi>good</hi> Laws, and an <hi>Executor</hi> of the ſame; I hope all true <hi>Iſraelites,</hi> in whoſe mouths are no Guile, in whoſe hearts is no Privy Conſpiracy, nor in whoſe hands there is no Rebellion, will never forget in their publick and private Devotion to ſay, <hi>God ſave the King.</hi>
+            </p>
+            <p>
+               <pb n="32" facs="tcp:94709:19"/>And for vindicating our holy and excellent <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> from any imputation of being acceſſary to <hi>Treaſonable conſpiracies,</hi> I ſhall moſt readily grant; that were it any way chargeable with theſe practi<g ref="char:EOLhyphen"/>ces, there needed no other thing to be pleaded againſt it, this alone would bar all its pretences of being <hi>Chriſtians</hi> for ever: and therefore there cannot be a greater miſchief done to it, than to give any juſt cauſe to ſuſpect it, for it muſt then never expect Kings to be its <hi>Nurſing fathers</hi> more, but rather that they ſhould all combine to baniſh it out of the world now, as they did to prevent its coming into it at firſt, upon the ſame prejudice. But it always was the honour of Chriſtian Religi<g ref="char:EOLhyphen"/>on, that it clear'd it ſelf fully of all theſe unjuſt imputations and commended it ſelf to Kings and became dear to them, was nurſed in their royal breaſts, and was adopted into their laws as being the greateſt ſecurity of their Government, and of Subjection to them; and what ever Re<g ref="char:EOLhyphen"/>ligion doth contrary to this, is by that only argu<g ref="char:EOLhyphen"/>ment, detected to be perfectly <hi>Anti-Chriſtian.</hi>
+            </p>
+            <p>I confeſs that few Rebellions have been raiſed, but by the warmth of a pretended zeal for Re<g ref="char:EOLhyphen"/>ligion, which Fears and Jealouſies have animated and given growth and ſtrength to; but it was only the <hi>Pretence;</hi> Religion was made a mask to hide the <hi>ugly face</hi> of Rebellion, which without ſo fine a Cover, would have affrighted thoſe
+<pb n="33" facs="tcp:94709:19"/>
+deluded ſouls, that were <hi>cheated</hi> with the beauti<g ref="char:EOLhyphen"/>full paint, that was laid over horrid deſigns! con<g ref="char:EOLhyphen"/>ſider beloved, what hath <hi>Religion</hi> to do in deſigns of this <hi>black nature!</hi> Religion is made up of purity, piety, peace, and holyneſs; and there is nothing of theſe, in cruel treacheries, in bloody Maſſacres, and tragicall murthers.</p>
+            <p>What <hi>Religion</hi> can there be in mens purſuing <hi>violent paths,</hi> on the pretence of Gods glory, in a direct oppoſition to his holy Laws? if the Ark of the Lord be <hi>ſhaken,</hi> and our Religion in <hi>danger,</hi> yet we muſt not ſupport it by <hi>forbiden methods:</hi> for it never proves well, when men forſake <hi>Gods directions</hi> to follow their <hi>own devices.</hi> Religion deſires none to be its <hi>Champions</hi> till firſt they are its <hi>diſciples. Let us therefore ſtudy to be quiet, and do our own buſineſs:</hi> practiſe the duties of Re<g ref="char:EOLhyphen"/>ligion, and God Almighty will aſſert its intereſt.</p>
+            <p>'Tis not <hi>Religion</hi> then is the cauſe of theſe bloody attempts, but the men whoſe preaching is of <hi>Curſing and lies,</hi> to whom we owe all our miſeries in this kind; and indeed what elſe can be expected, but that ſuch as have caſt off obedi<g ref="char:EOLhyphen"/>ence to Laws ſhould put themſelves under the Devils yoke. And if their former actions, are the beſt interpreters of their preſent deſigns, what can we expect from theſe <hi>Amalekites,</hi> but <hi>ruine</hi> and <hi>Confuſion?</hi> look backwards as far as the days of their firſt entrance among us: and you
+<pb n="34" facs="tcp:94709:20"/>
+will find them to be men made up of the worſt of all Extremities, <hi>Peeviſh</hi> without <hi>Reaſon! Re<g ref="char:EOLhyphen"/>bellious</hi> without <hi>Cauſe!</hi> and <hi>Troubleſome</hi> without <hi>End!</hi> and therefore if we will not fall into the ſame miſeries, let us have a care of the <hi>Men</hi> and the <hi>Methods</hi> that brought them about.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> A ſecond Reaſon inforcing the Duty of Pray<g ref="char:EOLhyphen"/>ing for the <hi>King,</hi> is, becauſe in ſo doing we do but <hi>Pray for our ſelves;</hi> and ſeek our own good in endeavouring his Majeſties Safety.</p>
+            <p>Loyalty is the <hi>Intereſt</hi> as well as <hi>Duty</hi> of <hi>Engliſh-Men,</hi> and their being true to <hi>Monarchy</hi> is their <hi>Happineſs</hi> as well as <hi>Honour;</hi> paſt experiences have demonſtrated, how <hi>Happy</hi> we have been under it, and how <hi>Miſerable</hi> without it; and I cannot but congratulate the happineſs of the <hi>Engliſh</hi> genius in this; for it is the juſt honour and prelation of <hi>Monarchy,</hi> that its Safety con<g ref="char:EOLhyphen"/>ſiſts in the wealth and happineſs of its Subjects, when few inſtances can be given of any <hi>Common-Wealths</hi> that have flouriſh'd much longer, than while <hi>Neceſſity</hi> and <hi>Poverty,</hi> were their <hi>Ligatures</hi> and <hi>Cements;</hi> and it is the good hap of a People, to be ſo naturally inclin'd to that which is much their Intereſt, and their Felicity.</p>
+            <p>In prudence and intereſt (I ſay) we are ob<g ref="char:EOLhyphen"/>liged to pray for the <hi>King</hi>'s <hi>ſafety,</hi> to the wiſdom of whoſe Government under God we owe the correction of our Evil Fate; to whoſe Care
+<pb n="35" facs="tcp:94709:20"/>
+we are indebted, <hi>That under it we may live quiet and peaceable Lives;</hi> to whoſe Authority it muſt be thanfully referred, that we are reſtrain'd from that Violence and Evil, whereby we are naturally prone to ruinate our own, and our Neighbours Felicity, to make our ſelves and others miſerable. It is the great concern of all good Subjects, that the <hi>Supreme Power</hi> ſhould be always <hi>Vigorous</hi> and <hi>Safe, Proſperous</hi> and <hi>abounding</hi> in all <hi>Plenty,</hi> that he may be a <hi>Terror</hi> to his Enemies, and a <hi>Defence</hi> to his Loyal Sub<g ref="char:EOLhyphen"/>jects. In his Majeſties Safety are we Safe, his Health, and Wealth, inable him to ſecure us in our <hi>Liberty,</hi> and <hi>Religion,</hi> our <hi>Properties</hi> and our <hi>Peace;</hi> and thus our own intereſt may move us, earneſtly to intercede with God for the Safety of our Sovereign, <hi>for the benefit is ours more than his, whilſt we are not troubled with the Cares, and yet enjoy the Bleſſed Fruit of Government.</hi>
+            </p>
+            <p>We muſt pray for the <hi>Kings Safety,</hi> that we may not be expoſed to the <hi>Cruelties</hi> of thoſe, that if there were <hi>no King in</hi> Iſrael, would do what was right <hi>in their own Eyes.</hi> 'Twas the Cuſtom of the Antient <hi>Heathen,</hi> when they Be<g ref="char:EOLhyphen"/>ſieged a City, in the firſt place to endeavour to intice out the <hi>Guardian Deity,</hi> by alledging the injuſtice of the Inhabitants, and inviting it to reſide with a more holy People,
+<q>—ut habeat te <g ref="char:V">Ʋ</g>rbs melior acceptior<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </q>
+               <pb n="36" facs="tcp:94709:21"/>
+holding it impoſſible to prevail againſt the Out-Works, when the divine inward Strength ſtood firm. Whilſt our <hi>Monarch</hi> is <hi>Safe</hi> and <hi>Proſperous,</hi> and our Laws <hi>Executed</hi> according to juſtice and equity, the bleſſings of Peace, and a happy Agree<g ref="char:EOLhyphen"/>ment between the <hi>King</hi> and the <hi>People,</hi> cannot be charm'd out of our Coaſts; but if once, either through <hi>Envy</hi> or <hi>Avarice, Ill-nature</hi> or <hi>Diſobedi<g ref="char:EOLhyphen"/>ence,</hi> we ſuffer his <hi>Power</hi> to be Eclipſed, his <hi>Prerogative</hi> to be curtail'd, and the <hi>Glory</hi> of his Crown to be ſullyed; we are then undermining the Safety of the whole Kingdom, and make way for thoſe that would Rob God of his Honour, the King of his Diadem, and Subjects of their Peace. <hi>Tyranny</hi> is infinitely more tolerable than an <hi>unbridled Liberty,</hi> for that like a Tempeſt might throw down ſome fruitful Trees; but Arming the giddy Multitude with a Power to do what they pleaſe, would ruine all before it: Confuſion is worſe than the hardeſt Subjection, and a corrupt Government better than a Civil-War, <hi>Melius eſt ſub his eſſe, ſub quibus nihil licet, quam ſub quibus omnia.</hi> And therefore the want of a King, to gag the mouths of Blaſphemers, to bound the Extravagancies of a lawleſs Liberty, and to manacle the hands of Plunderers, muſt be a complicated miſchief; and we cannot expect more miſeries, than will infallibly invade us; nor fewer than befell us in thoſe days, when we had
+<pb n="37" facs="tcp:94709:21"/>
+no King in <hi>Iſrael:</hi> and were ſcourged by the Rods and Scorpions of thoſe that did what was right in their own Eyes. Which that we may prevent for the future, let us pray, <hi>God ſave the King.</hi>
+            </p>
+            <p>And inde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed we are more concerned in the laſt place, to this duty, becauſe the <hi>ſame Men,</hi> are tracing the <hi>ſame Methods</hi> for the <hi>deſtruction</hi> of the <hi>Son,</hi> by which they brought about the <hi>Murther</hi> of his <hi>Father:</hi> and ſhall our Land (not ſufficiently purged from the Blood of one King) incur the Guilt of another Kings Blood, by giving way to the Sons of Violence to accompliſh their helliſh deſigns? To be guilty of this repeated Villany, doth ſtrangely aggravate the Nations Sins: for we ſin againſt <hi>Light</hi> and <hi>Knowledge,</hi> and <hi>Fair Warning</hi> given us, and late Experience <hi>already had</hi> of ſuch doings. Many (I ſuppoſe) that had a hand in the late War, did not foreſee or dream, that the fair pretences that began it, would have ended in ſuch a bloody Tragedy! but if we permit the <hi>ſame Amalekites,</hi> to trepan us again into the ſame Crimes: and make us ſerve to the <hi>ſame evil pur<g ref="char:EOLhyphen"/>poſes again;</hi> we then make our <hi>Ruine,</hi> our <hi>own Guilt,</hi> as well as our miſery, and muſt periſh as unpittyed Fools for ever.</p>
+            <p>Let me intreat you to look a little behind you, that you may not be <hi>again ſurpriſed.</hi> Did not all the miſchiefs our Late Troubles produced, owe
+<pb n="38" facs="tcp:94709:22"/>
+their Original to <hi>Schiſm</hi> and <hi>Faction?</hi> did not the <hi>Diſſenters</hi> of thoſe times ſeduce the People, by making them believe, That the <hi>Church of</hi> England was forſaking her <hi>Doctrine,</hi> and em<g ref="char:EOLhyphen"/>bracing the Errors and Superſtitions of <hi>Rome?</hi> did not they carry on their deſigns againſt the Government, by <hi>publiſhing Libels,</hi> and making People believe the Late King (of bleſſed me<g ref="char:EOLhyphen"/>mory) was either a <hi>Papiſt</hi> or <hi>Popiſhly-Affected?</hi> were not <hi>Fears</hi> and <hi>Jealouſies</hi> the main Engines uſed by thoſe bloody miſcreants, to ſerve their turns? and is their not plain demonſtration that the <hi>ſame things</hi> are indeavoured by the <hi>ſame ſort of Men,</hi> to be acted over again? is it not daily inculcated that <hi>Popery</hi> is bringing in amongſt us, and if we do not ſubmit to it, our Throats muſt all be cut, <hi>by the</hi> French <hi>that invaded</hi> Purbeck, <hi>or a vaſt Army of</hi> Spaniſh <hi>Pilgrims?</hi> are we not told many a dreadful Story of <hi>Slavery, Popery, Tyranny,</hi> and <hi>Arbitrary Government,</hi> and God knows what? only to Affright us out of our <hi>Religion</hi> and <hi>Allegiance,</hi> into a ſordid comply<g ref="char:EOLhyphen"/>ance with men of <hi>Anti-Monarchical</hi> and <hi>Anti-Epiſcopal</hi> Principles.</p>
+            <p>For God's ſake tell me why we ſhould give credence to the Pretences of ſuch men, as have once already ſubverted a Flouriſhing Kingdom, and overthrown both Religion and Property? I rather think if theſe things were well conſider'd
+<pb n="39" facs="tcp:94709:22"/>
+we ſhould not ſo eaſily be cajol'd by them; for though their Cry be for Liberty, they mean nothing leſs than to bring in ſuch an Anarchy as would introduce Confuſion, and the greateſt Slavery on this ſide Hell: and while they Cry out againſt <hi>Popery</hi> they mean <hi>Epiſcopacy,</hi> and do but amuſe us with the <hi>Romiſh Wolf,</hi> that we may be made a prey to the <hi>Northern-Bear.</hi>
+            </p>
+            <p>Were not the late inſtances of <hi>Tumultuary Propoſals</hi> and Applications, <hi>Tricks of the Old Trade?</hi> Addreſſes in the nature of Remonſtrances, Arbitrary Orders for Impriſoning Subjects, and <hi>Votes</hi> ſuſpending <hi>Penal Statutes,</hi> and rendring the King uncapable of making uſe of his <hi>Own Revenue</hi> for the <hi>Publick Safety:</hi> and putting him into a worſe condition than the meaneſt of his Subjects? did not they court the King to have the <hi>Militia,</hi> and all Offices and Places of Truſt at their diſpoſal? <hi>and were not theſe the very things that begat the War, and ruin'd us all.</hi>
+            </p>
+            <p>Did not the Parliament in <hi>Forty One,</hi> &amp;c. Proteſt their Duty and Allegiance to his Majeſty in the <hi>faireſt terms</hi> imaginable, and confirm'd the ſame by <hi>Oaths</hi> and <hi>Covenants,</hi> that they had no intentions to offer Violence to his <hi>Majeſties Perſon,</hi> to <hi>Hurt</hi> his <hi>Power,</hi> or <hi>Deſtroy</hi> his <hi>Monar<g ref="char:EOLhyphen"/>chy?</hi> and yet did not the <hi>ſame Perſons,</hi> againſt their own <hi>Remonſtrances, Declarations, Proteſta<g ref="char:EOLhyphen"/>tions, Promiſes, Vows, and Oaths,</hi> in cold Blood <hi>Murther</hi> their Lawful <hi>Sovereign?</hi>
+            </p>
+            <p>
+               <pb n="40" facs="tcp:94709:23"/>Did they not in a Declaration publiſh'd in 42. ſay they intended nothing but a Reformation of ſome Abuſes crept into the Church? and yet did not the ſame men pull down <hi>Churches</hi> to ſet up an <hi>Enthuſiaſtick</hi> Devotion, ſeize the <hi>Churches Patrimony</hi> to inrich themſelves; and at laſt <hi>aboliſh</hi> its Government, to gratifie the <hi>Phanatick Zeal</hi> of a diſtracted multitude? and ſhall we be ruined by them a ſecond time? God forbid!</p>
+            <p>One would think there needed no other Ar<g ref="char:EOLhyphen"/>gument amongſt us againſt <hi>Rebillion,</hi> or <hi>Sedition</hi> in the State, or againſt <hi>Schiſm</hi> or <hi>Diviſion</hi> in the Church, than the bare remembrance of what this Nation hath already ſuffer'd by them: we have felt to our <hi>Coſts</hi> what it was to want our <hi>Lawful Government,</hi> and what was the Effect of reſiſting <hi>Authority;</hi> for our Enemies having (by a vaſt Expence of Blood and Treaſute,) wreſted the Power into their own hands, they threw down the <hi>Nobles</hi> from their <hi>Honours</hi> and <hi>Eſtates,</hi> and ſet up the very <hi>Scum</hi> and <hi>Dregs</hi> of the <hi>People:</hi> in ſtead of <hi>One King</hi> of a <hi>Glorious Race,</hi> we had a <hi>whole Army</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>ſurpers,</hi> who ſent their <hi>Horſes</hi> to <hi>Church,</hi> and went themſelves to <hi>Conventicles!</hi> and a great part of their <hi>Devotion</hi> there, was to <hi>Curſe</hi> Loyal Subjects under the Name of <hi>Meroz,</hi> and contrive to <hi>Murther</hi> their <hi>King</hi> in the Name of <hi>Jeſus.</hi>
+            </p>
+            <p>Two things they promis'd the abus'd Nation, <hi>viz.
+<pb n="41" facs="tcp:94709:23"/>
+Religion</hi> and <hi>Liberty,</hi> and made good their pro<g ref="char:EOLhyphen"/>miſes by bringing in all the Religons in the world, except the <hi>Orthodox!</hi> and to be of that, was to be an <hi>Enemy</hi> to the <hi>Gate;</hi> men might pray without <hi>ſenſe,</hi> ſo they prayed without <hi>a Booke!</hi> but to ſay the <hi>Lords Prayer,</hi> was to be called a <hi>Malignant,</hi> and to pray for the <hi>King,</hi> was to be accounted a <hi>Traytor.</hi>
+            </p>
+            <p>And as they dealt with us in the affairs of <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> ſo did they in reſpect of our <hi>Priveledgs;</hi> al<g ref="char:EOLhyphen"/>lowing no other ſhare to us than what might con<g ref="char:EOLhyphen"/>firm our <hi>Vaſſalage,</hi> and uphold there <hi>Tyranny!</hi> they had the Liberty to <hi>Plunder</hi> and <hi>Oppreſs,</hi> and we had the Liberty to <hi>Beg</hi> or <hi>Starve;</hi> they had the Liberty to be <hi>Cruel</hi> and <hi>Savage,</hi> and we had Li<g ref="char:EOLhyphen"/>berty to be <hi>Diſhoneſt,</hi> or be <hi>Hang'd,</hi> which I think is ſufficient to perſwade us, by all <hi>lawfull</hi> means to prevent the deſigns of thoſe perſons, which but lately, were ſo miſchievous, and deadly, to the <hi>King</hi> and his three <hi>Kingdoms.</hi>
+            </p>
+            <p>But ſay ſome, is it not unreaſonable, and un<g ref="char:EOLhyphen"/>juſt, to charge the ſins of the former Age upon this?</p>
+            <p>No, but on the contrary, tis both <hi>rational</hi> and <hi>equitable</hi> ſo to do, ſince the <hi>ſame principles</hi> will upon the <hi>ſame occaſion,</hi> eternally act the <hi>ſame things;</hi> unleſs prevented by the greateſt care and circum<g ref="char:EOLhyphen"/>ſpection. And for thoſe who are diſpleaſed at the rehearſal of former Wickedneſs, if they
+<pb n="42" facs="tcp:94709:24"/>
+would lay aſide their Prejudice, have cauſe to thank us; for our deſign is to <hi>Reform,</hi> and not <hi>Ruine</hi> them; to ſhew them the <hi>Danger,</hi> and not draw them into the <hi>Snare;</hi> and to tell them the naked truth of things, which they hear not at all in <hi>Conventi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s:</hi> or elſe are repreſented to them under more favou<g ref="char:EOLhyphen"/>rable Expreſſions, than they ought be: for who that ſees <hi>Re<g ref="char:EOLhyphen"/>bellion</hi> in its ugly hue, and <hi>Murther</hi> in its own ſhape, would not fly from it with Horror and Amazement? and therefore hath it been a man Artifice amongſt the <hi>Non-Conformiſt Preachers,</hi> to diſuade their Admirers from frequenting thoſe places, where the Doctrine of Obedience is Taught: leſt their Eyes ſhould be opened, and their Conſciences convinced, and they loſe both their <hi>Penſion</hi> and their <hi>Pro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te.</hi>
+            </p>
+            <p>And therefore if there be any in this great Congregation who have frequented ſuch Pla<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, where People are alienated from their Duty to God and the King: let me intreat them by a <hi>Religious Conformity</hi> to the Laws Eccleſiaſtical and Civil, to ſeek their own Peace and Safety; and by a true Repentance, prevent the Ruine of Soul and Body: <hi>For they that Reſiſt Law<g ref="char:EOLhyphen"/>ful Authority, ſhall receive to themſelves Damnation.</hi> To which give me leave to add the Adviſe of a great Lawyer. Peruſe all Books, Records and Hiſtories, and you ſhall find a Principle in Law, a Rule in Reaſon, and a Tryal in Experience, that Treaſon doth ever produce fatal and final deſtruction to the offender, and never attains the deſired End; (two incidents inſeparable thereunto) and therefore let all Men abandon it as the Poyſonous Bait of the Devil; and follow the Precept in Holy Scripture, <hi>Serve God, and Honour the King, and have no Company with the Seditious.</hi>
+            </p>
+            <p>Laſtly, <hi>Pro quibus orandum pro tis laborandum.</hi> Let an honeſt indeavour inforce your Prayers, and Seeing we Live among thoſe that are Enemies to Peace: a Race of Cruel and Blood-Thirſty Men; let it be your greateſt Care to <hi>Diſcover</hi> and <hi>Prevent</hi> their Treacherous Deſigns, that we may have no more <hi>Rebellions</hi> hatched among us. Suffer not Ambitious Men to purchaſe their own <hi>Advancement,</hi> with the Price of your <hi>Blood</hi> and <hi>Treaſure;</hi> for they may Contrive with their <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ads</hi> till they drop from their <hi>Shoulders,</hi> unleſs they have more Hands to Aſſiſt them. And ſince I have the Honour to ſpeak to the Magiſtracy of this Famous City, (of whoſe Fidelity to the King, I come not to <hi>Doubt</hi> but rather <hi>Congratulate</hi>) Suffer me to intreat you, not to let any Man or <hi>Thing</hi> divide you from
+<pb n="43" facs="tcp:94709:24"/>
+his <hi>Majeſty,</hi> for none can do it but with a deſign to deſtroy you. The Safety of the King is in the Welfare of his People, and the Proſperity of this City depends upon the King's Safety; and if Men would look into the Truth of things, they would ſoon perceive that their Intereſts are <hi>com<g ref="char:EOLhyphen"/>plicated,</hi> and indeed the ſame; for it is true in <hi>Experience</hi> as well as <hi>Speculation:</hi> and whoever will trace either the Ruine of the Late King <hi>(of Bleſſed Memory,)</hi> or the ſubſequent Miſery of this City, to their firſt Origins, will ſoon find the Artifice of ſome Men in Separating them from each other, effected both.</p>
+            <p>But my aſſurance that I ſpeak to many of thoſe Prudent and Loyal Magiſtrates, and Citizens, whoſe early Abhorrence of Rebellious Aſſociations, and many other demonſtrations of their Duty and Allegiance to his Majeſty, and Submiſſion to his Laws, are an unqueſtionable Evidence that they underſtand their Inter<g ref="char:EOLhyphen"/>eſt, as well as Duty; I ſhall wave all Diſcourſes on that Subject, and with begging pardon for this digreſſion, take leave only to ſhew you by what Methods you may demonſtrate your Care of the publick Safety, and this I do not as an Imperious Dictator, but as an humble Remembrancer.</p>
+            <p>Firſt, By having a watchful Eye over thoſe <hi>Amal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kites,</hi> that by Sowing Sedition amongſt you make way for all kinds of Miſchief; and this beſides your Duty and Allegiance, you have Provocations too from your own Danger: Since ſome <hi>that have been Obliged to this City for their Bread, like <g ref="char:V">Ʋ</g>ngrateful Villains, would have made it the Theatre for Bloody Tragedies!</hi> and is all their Pretences come to this? are theſe the men that were ſo fearful of <hi>Popery,</hi> cryed ſo loud againſt <hi>Arbitrary-Power,</hi> and called themſelves the <hi>only true Proteſtants?</hi> did the ſeveral <hi>Factions</hi> of the <hi>City</hi> and <hi>Country,</hi> Club, Pray, and Drink together, for no better purpoſes than the <hi>Murther</hi> of a gracious <hi>King,</hi> and the ruine of a <hi>Flouriſh<g ref="char:EOLhyphen"/>ing</hi> Kingdom? I need make no Anſwer, their Flying from the Face of Juſtice hath done it for me, and confirm'd the Saying of a Learned Stateſman, That <hi>the biggeſt part of Diſſenters are criminally Diſobedient.</hi> I Confeſs that Charity commands me to believe, that ſome Diſſenters are more peaceably minded, but theſe may be eaſily differenced from the reſt, by their meekneſs, Patience, and readineſs to be informed; but for thoſe that have <hi>Brazen Brows,</hi> and <hi>Iron Necks,</hi> I can never be<g ref="char:EOLhyphen"/>lieve them to have <hi>Tender Conſciences.</hi> Therefore if there be any under your Government that will do nothing but what is <hi>Right in their own Eyes,</hi> let them <hi>undergo</hi> what is <hi>Juſt in Yours:</hi>
+               <pb n="44" facs="tcp:94709:25" rendition="simple:additions"/>
+for you are more bound in Conſcience to <hi>Execute</hi> Righteous Laws, than they can be to break them.</p>
+            <p>When the <hi>Rabble</hi> have a mind to Rebel, every thing they would have introduced or altered, is their <hi>Conſcience;</hi> when 'tis only a Pretence that they may <hi>Deſie</hi> the Laws, <hi>Outface</hi> Autho<g ref="char:EOLhyphen"/>rity, and <hi>Advance</hi> themſelves; againſt whoſe Cruelties the Exe<g ref="char:EOLhyphen"/>cution of the Laws can only defend us; and if this were done in all places, our Peace would not be diſturbed, we ſhould either have <hi>No Plots,</hi> or <hi>None Proſper,</hi> and have frequent occaſion to bleſs the Name of God for the Security of Laws, and Ma<g ref="char:EOLhyphen"/>giſtrates, the Suppreſſion of Treaſons and Conſpiracies, and the Continuance of Peace and Plenty.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> By putting a ſtop to that flood of Atheiſm and Irreligion, which hath overflown the whole Land, for we can never expect God to be long our Friend,<note place="margin">Si Religio tol<g ref="char:EOLhyphen"/>litur, nulla nobis ratio cum Caelo eſt. <hi>Lactant. inſtit. lib.</hi> 3. <hi>c.</hi> 10.</note> if we do not Reform our Lives: <hi>There is no Peace to the Wicked ſaith God,</hi> and while we make a <hi>Mock</hi> at <hi>Religion,</hi> what can we expect but that God ſhould <hi>Laugh</hi> at our <hi>Calamities.</hi>
+            </p>
+            <p>All the <hi>Miſeries</hi> of <hi>England</hi> may be dated from the time that Men began to wax <hi>Wanton</hi> in their Religion: for then did they become Immoral, Looſe, and Debauched in their Lives: <hi>Hereſy, Schiſm</hi> and <hi>Factions</hi> in the <hi>Church;</hi> and <hi>Sedition, Privy-Conſpiracy</hi> in the <hi>State,</hi> are but <hi>Gemini Fratres,</hi> which come into the World at one and the ſame time. And till Sin and Wicked<g ref="char:EOLhyphen"/>neſs, Debauchery and Prophaneſs, be ſuppreſſed, which makes the Heavens look ſo <hi>Black</hi> over us? we cannot expect the Face of God to <hi>Shine</hi> upon us with a happy Peace and Tranquility.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>Good</hi> Men always make the <hi>Beſt</hi> Subjects, and they that out of a <hi>Pure Conſcience</hi> give unto <hi>God</hi> the things that are Gods, will never be wanting to give <hi>Caeſar</hi> his Due, and you cannot any better way Serve the <hi>King</hi> and the <hi>Government,</hi> than by reſtraining Impiety, and promoting among all his People the Fear of God, and a due Senſe of Religion: And that your Endeavours may not be ineffectual, remember to ſtrengthen them with your fervent Prayers, ſaying, <hi>God Save the King:</hi> Which God of his infinite Mercy grant, for the ſake of our deareſt Lord and Saviour, to whom with thee O Father, and the Holy Spirit, be all Glory and Praiſe for Evermore.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
